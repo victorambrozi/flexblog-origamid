@@ -91,3 +91,25 @@ img {
     color: #122ab2;
     transition:  .4s;
 }
+
+/* Introduction */
+
+.introduction {
+    font-size: 3em;
+    line-height: 1;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 60px 10px;
+}
+
+/* About */
+
+.about {
+    margin: 0 auto;
+    padding: 60px 0;
+    max-width: 960px;
+    border-top: 2px solid #2c70ff;
+    border-bottom: 2px solid #2c70ff;
+
+    /* display: flex;  Adicionar display flex */
+}
